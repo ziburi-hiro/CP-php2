@@ -5,7 +5,7 @@ ini_set("display_errors", 1);
 //1. DB接続します
 try {
   //Password:MAMP='root',XAMPP=''
-  //$pdo = new PDO('mysql:dbname=ziburihiro_cp_php2;charset=utf8;host=mysql57.ziburihiro.sakura.ne.jp','','');
+  //$pdo = new PDO('mysql:dbname=ziburihiro_cp_php2;charset=utf8;host=','','');
   $pdo = new PDO('mysql:dbname=gs_db;charset=utf8;host=localhost','root','');
 } catch (PDOException $e) {
   exit('DBError:'.$e->getMessage());
