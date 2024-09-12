@@ -7,7 +7,7 @@ ToDoリスト
 - データベースにデータを登録表示できるようになっている
 
 ## ③DEMO
-- https://ziburihiro.sakura.ne.jp/php2/index.php
+- https://ziburihiro.sakura.ne.jp/php02/index.php
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
